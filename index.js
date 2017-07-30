@@ -1,3 +1,7 @@
+/*
+Testing, bundling, transpiling, linting, gzipping omitted
+*/
+
 var express =  require('express');
 var cors = require('cors');
 
